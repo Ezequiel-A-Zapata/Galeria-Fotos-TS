@@ -1,13 +1,16 @@
 
-import './App.css'
+import Header from './components/Header'
+import Inicio from './components/Inicio'
 
 function App() {
 
   return (
     <>
-    <h1 className="text-3xl font-bold underline text-emerald-400">
+    <Header />
+    <Inicio />
+    <h2 className="text-3xl font-bold underline text-emerald-400">
       Hello world!
-    </h1>
+    </h2>
     </>
   )
 }
