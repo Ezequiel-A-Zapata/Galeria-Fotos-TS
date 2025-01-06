@@ -5,9 +5,9 @@ import imagenAppleWatch from "../assets/imagenes-galeriaDeFotos/apple-watch.png"
 import imagenAirPods from "../assets/imagenes-galeriaDeFotos/airpods.jpg";
 import imagenAirPods2 from "../assets/imagenes-galeriaDeFotos/airpods2.jpg";
 
-type Props = {}
 
-const Inicio = (props: Props) => {
+
+const Inicio = () => {
     return (
         <section className="w-screen">
             <div className="w-full h-12  bg-black"></div>
