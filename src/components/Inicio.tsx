@@ -19,13 +19,13 @@ const Inicio = () => {
                 <img src={imagenIphone16} alt="Iphone 16" className=" size-auto" />
                 </div>
                 <div className="bg-gradient-to-b from-green-200 to-slate-50">
-                <img src={imagenIpadAir} alt="Ipad Air" className="size-auto" />
+                <img src={imagenIpadAir} alt="Ipad Air" className="size-auto mt-28" />
                 </div>
                 <div className=" bg-gradient-to-b from-zinc-950 to-zinc-800 ">
-                <img src={imagenAppleWatch} alt="Apple Watch" className="size-auto" />
+                <img src={imagenAppleWatch} alt="Apple Watch" className="size-auto mt-20 mb-10" />
                 </div>
                 <div className="bg-black">
-                <img src={imagenAirPods} alt="AirPods" className="size-auto" />
+                <img src={imagenAirPods} alt="AirPods" className="size-auto mt-20" />
                 <img src={imagenAirPods2} alt="AirPods" className="size-auto" />
                 </div>
             </section>
